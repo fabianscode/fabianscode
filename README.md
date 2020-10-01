@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<a href="https://keybase.io/fabianscode">
+  <img align="left" alt="Vincent | Keybase" width="21px" src="https://keybase.io/images/icons/icon-keybase-logo-48.png" />
+</a>
 
 Hi, my name is Fabian and I'm a student from Germany...
 
@@ -10,4 +13,12 @@ Hi, my name is Fabian and I'm a student from Germany...
 - 💬 Ask me about anything you want
 - 📫 Reach me via Keybase: fabianscode
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fabianscode)](https://github.com/anuraghazra/github-readme-stats)
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+
+<a href="https://github.com/vincentscode?tab=repositories">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vincentscode&show_icons=true&include_all_commits=true&theme=default_repocard&count_private=true" alt="Vincent's github stats" />
+</a>
