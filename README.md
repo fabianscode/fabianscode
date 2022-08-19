@@ -1,3 +1,1 @@
-### Hi there 👋
-
-Hi, my name is Fabian and I'm a student from Germany...
+### Hello :D
